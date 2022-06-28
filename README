@@ -1,7 +1,1 @@
-echo "# Proyectos_DSRP" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/RenzoCar1997/Proyectos_DSRP.git
-git push -u origin main
+Projects developed in Data Science Research Peru (DSRP)
